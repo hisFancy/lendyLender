@@ -7,3 +7,6 @@ voila --no-browser --enable_nbextensions=True LendyLender.ipynb
 
 # Start a simple web server to serve the HTML file
 # python -m http.server $PORT
+
+# NOTES
+# the bashbang is a thing
